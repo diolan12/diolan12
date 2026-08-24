@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=diolan12&label=Profile%20views&color=0e75b6&style=flat" alt="diolan12" />
 </p>
 
-I am a Software Engineer with over 4 years of experience, dedicated to delivering clean, maintainable, and efficient code. I specialize in building robust web applications and tools, ranging from management systems to network visualization features.
+I am a Software Engineer with over 6 years of experience, dedicated to delivering clean, maintainable, and efficient code. I specialize in building robust web applications and tools, ranging from management systems to network visualization features.
 
 - 🔭 I’m currently working on full-stack web applications and automation tools.
 - 🌱 I’m currently deepening my expertise in **Vue 3**, **Go**, and **Agentic AI**.
