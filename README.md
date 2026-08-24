@@ -45,6 +45,6 @@ I am a Software Engineer with over 6 years of experience, dedicated to deliverin
 
 <h3 align="left">Stats:</h3>
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=diolan12&show_icons=true&locale=en" alt="diolan12" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diolan12&show_icons=true&locale=en&layout=compact" alt="diolan12" />
+<img align="left" src="https://github-stats-extended.vercel.app/api?username=diolan12&rank_icon=percentile&show_icons=true&include_all_commits=true" alt="diolan12" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=diolan12&layout=compact&langs_count=7" alt="diolan12" />
 </p>
